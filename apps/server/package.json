@@ -1,8 +1,8 @@
 {
   "name": "server",
   "version": "0.0.1",
-  "description": "Marblism server",
-  "author": "marblism",
+  "description": "Bhavin Ondhiya",
+  "author": "Bhavin Ondhiya",
   "private": true,
   "files": [
     "dist"
